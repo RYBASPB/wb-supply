@@ -1,0 +1,5 @@
+package: wb_api
+generate:
+  models: false
+  client: true
+output: api.gen.go
